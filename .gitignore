@@ -1,0 +1,4 @@
+/.qodo
+/.ipynb_checkpoints
+*.ipynb
+*.db
